@@ -26,6 +26,7 @@ button {
 .hamburger-btn:hover {
   fill: purple;
   transition: 0.3s;
+  cursor: pointer;
 }
 
 .hamburger-btn .line {
